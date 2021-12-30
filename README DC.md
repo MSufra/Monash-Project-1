@@ -34,6 +34,7 @@ From the selected countries, France and Germany had high number of new cases in 
 The vaccination rate varies with Singapore having 87% of population fully vaccinated, Ireland 76% and Australia 75%.
 
 The cases per hundred rate for the selected countries varies from 21% in Slovenia, 14.5% Israel and only 0.8% in Australia.
+![Cses_perHundred_Selected Countries](https://github.com/MSufra/Monash-Project-1/blob/main/DC%20Output/DC%20Figures/Fig%20DC%20Total%20Cases%20per%20Hundred%20Selected%20Countries%20271121.png)
 
 When analysing the data whithout considering other factors, the results show that in Australia the number of cases increased when the fully vaccinated population increased also. The correlation factor shows a strong positive correlation. However, there are other contextual factors to be considered before drawing a conclusion on the correlation between vaccine and new cases. These factors would include lockdowns, border closure, social distancing, and others.
 
