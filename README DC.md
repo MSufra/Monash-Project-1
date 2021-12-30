@@ -37,7 +37,7 @@ The cases per hundred rate for the selected countries varies from 21% in Sloveni
 
 When analysing the data whithout considering other factors, the results show that in Australia the number of cases increased when the fully vaccinated population increased also. The correlation factor shows a strong positive correlation. However, there are other contextual factors to be considered before drawing a conclusion on the correlation between vaccine and new cases. These factors would include lockdowns, border closure, social distancing, and others.
 
-### GDP, Human Development Index and Life expectancy vs total amount of vaccinations
+### GDP, Human Development Index and Life expectancy vs total amount of vaccinations (A. Rynkanen)
 
 When comparing countries and their vaccination rates, differences of their socioeconomic status should be taken into consideration. In this dataset, the total number of vaccinations was compared to GDP per capita, Human Development Index (HDI) and life expectancy. 
 
