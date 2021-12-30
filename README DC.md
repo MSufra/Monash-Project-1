@@ -17,7 +17,7 @@ The data source used for this Covid Cases analysis project is owid-covid-data.cs
 According the the owid-covid-data on 15th December 2021 there were 272,205,417 cases recorded worldwide.
 
 Since the pandemic started, countries like United States, India and Brazil recorded more than 22 million cases each. 
-![Highest_Cases](./DC Figures/Fig DC Highest Number of Cases by Country.png")
+![Highest_Cases](https://github.com/MSufra/Monash-Project-1/blob/main/DC%20Output/DC%20Figures/Fig%20DC%20Highest%20Number%20of%20Cases%20by%20Country.png)
 
 From the data analysed correlation between new cases and new vaccines or people fully vaccinated is very weak.
 
