@@ -76,3 +76,51 @@ When plotting this approval against the total number of vaccines administered fr
 
 The Pearson's correlation coefficient is 0.44 which indicates a weak to moderate correlation between the number of countries that have approved a vaccine and the number of doses administered. The lack of a stronger correlation may indicate that even though a vaccine may be approved in many countries there is still preference for certain manufacturers over others.
 
+
+### Covid-19 Analysis, AUS NZ Comparison (S. Bhandari)
+Observations and Analysis - Sonam B. 
+
+Covid-19 is a contagious virus rapidly spreading within the large populus, first identified in November 2019. Data and datasets for this are evolving everyday with new information to hand constantly. 
+
+Datasets for the below analysis are noted as below: 
+- country_vaccinations.csv from Kaggle.com
+- owid-covid-data.csv from the ourworldindata.org 
+
+Since the spread of this virus being declared a pandemic, countries with larger population sizes have seen exponential numbers of infected, which on further look into the data also shows the same countries as higher on the vaccinated population as well. 
+
+For the purpose of my analysis, a comparison has been undertaken between Australia and New Zealand considering the below factors: 
+- Geographical location
+- Similar demographic (though population size will vary) 
+- GDP is in a similar range 
+- Cultural similarities 
+
+Analysis completed are however purely on the basis of dataset held - more focussed on the cases vs vaccination approach - with no further data sought or analysed on a breakdown of the populus. 
+
+Observations suggest the following: 
+- GDP is in the similar vicinity for both countries which stipulates stronger infrasture and health care support in administering more vaccinations
+
+![Bar2](SB_Output/Bar2)
+
+- Australia has recorded more deaths (>2000) on cases recorded than New Zealand.
+
+![Bar1](SB_Output/Bar1)
+
+- Australia is considerably ahead noting vaccinated population
+
+![Bar](SB_Output/Bar)
+
+- High correlation between total cases recorded and vaccination rates 
+- Strong correlation between total covid cases and correspodning deaths recorded
+- Also a moderate correlation between the case numbers increasing as more of the population gets vaccinated. 
+
+Factors not considered:
+- Border Closures
+- Social distancing norms
+- Lockdowns
+
+In conclusion, 
+As more variants are identified, more focus is being placed on vaccination boosters which will change the landscape as it is at present and the dataset as has been analysed will not be a real representation of all the updates that have been undertaken in the past month itself. 
+
+Covid Cases are on a steep rise again; how the current trends fare in the coming months remains to be seen. 
+
+What can be satisfactorily concluded is, countries with a higher GDP (though not a completed transparent view of their insfrasture or health care system) continue to manage and administer higher rates of vaccination. Pfizer is the preferred vaccine in 39 of the countries it has been approved in. 
