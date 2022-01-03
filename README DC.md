@@ -28,7 +28,7 @@ From the data analysed the correlation between new cases and new vaccines or peo
 However, there is a strong positive correlation between the new cases and new deaths demonstrated by a r-squared of 0.71.
 ![(New Deaths vs New Cases Worldwide)](DC Output/DC Figures/Fig DC New Deaths vs New Cases Worlwide Worlwide - Linear Regression.png)
 
-Vaccination data shows that the countries with the highest number of people vaccinated are India with 781MIL people vaccinated, United States 234.6MIL and Brazil 163MIL. However, China, India and United States are the countries with the highest number of people fully vaccinated. ON teh other hand, the countries with the highest percentage of population vaccinated are Gibraltar, United Arab Emirates and Portugal.
+Vaccination data shows that the countries with the highest number of people vaccinated are India with 781MIL people vaccinated, United States 234.6MIL and Brazil 163MIL. However, China, India and United States are the countries with the highest number of people fully vaccinated. On the other hand, the countries with the highest percentage of population vaccinated are Gibraltar, United Arab Emirates and Portugal.
 
 When analysing the data without considering other factors, the results show that in countries like Australia the number of cases increased when the fully vaccinated population increased also. However, there are other contextual factors to be considered before drawing a conclusion on the correlation between vaccine and new cases. These factors would include lockdowns, border closure, social distancing, and others.
 
