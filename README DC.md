@@ -17,29 +17,26 @@ The data source used for this Covid Cases analysis project is owid-covid-data.cs
 According the the owid-covid-data on 15th December 2021 there were 272Mil cases recorded worldwide.
 
 Countries with the highest number of cases include United States with 48Mil cases, India 34Mil and Brazil 22Mil.
-<<<<<<< HEAD
+
 ![("Highest_Cases)](DC Output/DC Figures/Fig DC Highest Number of Cases by Country.png)
 
 During the time, the number of cases increased and decreased in waves with different peak periods for each country. 
 
 ![(New_Cases)](./DC Output/DC Figures/Fig DC New Cases by Date Selected Countries.png)
-=======
 
 ![Cases](Monash-Project-1/DC Output/DC Figures/Fig DC Highest Number of Cases by Country.png)
 
 During the time, the number of cases increased and decreased in waves with different peak periods for each country. 
 
 ![New_Cases_Timeline - Countries with Highest Number of Cases](/DC Output/DC Figures/Fig DC New Cases by Date Selected Countries.png)
->>>>>>> 798f562ea7dfd7f49822be6a91892e5bdb0f45d7
 
 From the data analysed the correlation between new cases and new vaccines or people fully vaccinated is very weak.
 
 However, there is a strong positive correlation between the new cases and new deaths demonstrated by a r-squared of 0.71.
-<<<<<<< HEAD
+
 ![(Deaths_vs_Cases)](./DC Output/DC Figures/Fig DC New Deaths vs New Cases Worlwide Worlwide - Linear Regression.png)
-=======
 ![(New_Deaths_vs_New_Cases_Worldwide)](/DC Output/DC Figures/Fig DC New Deaths vs New Cases Worlwide Worlwide - Linear Regression.png)
->>>>>>> 798f562ea7dfd7f49822be6a91892e5bdb0f45d7
+
 
 Vaccination data shows that the countries with the highest number of people vaccinated are India with 781MIL people vaccinated, United States 234.6MIL and Brazil 163MIL. However, China, India and United States are the countries with the highest number of people fully vaccinated. On the other hand, the countries with the highest percentage of population vaccinated are Gibraltar, United Arab Emirates and Portugal.
 
