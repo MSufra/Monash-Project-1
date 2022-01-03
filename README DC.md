@@ -10,33 +10,31 @@ Sonam Bhandari, Daniela Cornea, Anita Rynkanen, Matthew Sufra
 Investigation of the rates of vaccination around the world and factors that impact these rates.
 ### Covid 19 Vaccination and Cases Analysis (D. Cornea)
 
-Covid 19 is a disease caused by a virus that easily spreads from person to person and affected people from the whole world since end of 2019. Data about the pandemic is available in different forms and it is updated every day. 
+Covid 19 is a disease caused by a virus that easily spreads from person to person and affected people around the world since end of 2019. Data about the pandemic is available in different forms and it is updated every day.
 
 The data source used for this Covid Cases analysis project is owid-covid-data.csv from the ourworldindata.org as well as the country_vaccinations.csv from kaggle.com.
 
-According the the owid-covid-data on 15th December 2021 there were 272,205,417 cases recorded worldwide.
+According the the owid-covid-data on 15th December 2021 there were 272Mil cases recorded worldwide.
 
-Since the pandemic started, countries like United States, India and Brazil recorded more than 22 million cases each. 
-![Highest_Cases](https://github.com/MSufra/Monash-Project-1/blob/main/DC%20Output/DC%20Figures/Fig%20DC%20Highest%20Number%20of%20Cases%20by%20Country.png)
+Countries with the highest number of cases include United States with 48Mil cases, India 34Mil and Brazil 22Mil.
+![(Highest Number of Cases by Country)](DC Output/DC Figures/Fig DC Highest Number of Cases by Country.png)
 
-From the data analysed correlation between new cases and new vaccines or people fully vaccinated is very weak.
+During the time, the number of cases increased and decreased in waves with different peak periods for each country. 
+
+![(New Cases Timeline - Countries with Highest Number of Cases)](DC Output/DC Figures/Fig DC New Cases by Date Selected Countries.png)
+
+From the data analysed the correlation between new cases and new vaccines or people fully vaccinated is very weak.
 
 However, there is a strong positive correlation between the new cases and new deaths demonstrated by a r-squared of 0.71.
+![(New Deaths vs New Cases Worldwide)](DC Output/DC Figures/Fig DC New Deaths vs New Cases Worlwide Worlwide - Linear Regression.png)
 
-Vaccination data shows that the countries with the highest number of people vaccinated are India with 781MIL people vaccinated, United States 234.6MIL and Brazil 163MIL. However, China, India and United States are the countries with the highest number of people fully vaccinated.
+Vaccination data shows that the countries with the highest number of people vaccinated are India with 781MIL people vaccinated, United States 234.6MIL and Brazil 163MIL. However, China, India and United States are the countries with the highest number of people fully vaccinated. ON teh other hand, the countries with the highest percentage of population vaccinated are Gibraltar, United Arab Emirates and Portugal.
 
-The highest number of cases per million of population have been recorded in Montenegro, Seychelles and Andorra.
-People fully vaccinated per hundred had the highest rate in Gibraltar 118.19%, United Arab Emirates	89.34% and Chile 83.82%.
+When analysing the data without considering other factors, the results show that in countries like Australia the number of cases increased when the fully vaccinated population increased also. However, there are other contextual factors to be considered before drawing a conclusion on the correlation between vaccine and new cases. These factors would include lockdowns, border closure, social distancing, and others.
 
-Selected countries used as sample for further analysis had more than 100,000 cases and have a GDP higher than 30,000 and a human development index higher than 0.8.
-From the selected countries, France and Germany had high number of new cases in around April but the highest number of new cases had been recorded in November.
+While considering, India, a country with high number of cases, after analysing the trend of cases versus vaccination rate, it can be noted that the new cases increased sharply at end of April and decreased in May. However, the vaccination rate was rather low when the number of cases decreased, therefore it is unlikely that the vaccination rate affected the reduced number of new cases.
 
-The vaccination rate varies with Singapore having 87% of population fully vaccinated, Ireland 76% and Australia 75%.
 
-The cases per hundred rate for the selected countries varies from 21% in Slovenia, 14.5% Israel and only 0.8% in Australia.
-![Cses_perHundred_Selected Countries](https://github.com/MSufra/Monash-Project-1/blob/main/DC%20Output/DC%20Figures/Fig%20DC%20Total%20Cases%20per%20Hundred%20Selected%20Countries%20271121.png)
-
-When analysing the data whithout considering other factors, the results show that in Australia the number of cases increased when the fully vaccinated population increased also. The correlation factor shows a strong positive correlation. However, there are other contextual factors to be considered before drawing a conclusion on the correlation between vaccine and new cases. These factors would include lockdowns, border closure, social distancing, and others.
 
 ### GDP, Human Development Index and Life expectancy vs total amount of vaccinations (A. Rynkanen)
 
