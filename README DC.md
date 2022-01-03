@@ -57,15 +57,15 @@ When looking at the HDI and the number of total vaccinations, no correlation can
 As of the 11th of December 2021, there were eight vaccines, manufactured by eight different companies, against covid-19 approved for use by the World Health Organisation.
 The data sets used for this project (country_vaccinations.csv from kaggle.com and vaccinations-by-manufacturer from Our World in Data) contains information on six of these vaccines, as well as information on the CanSino vaccine and the Sputnik V vaccine.
 
-In the first data set of 223 countries the average number of vaccines approved for use 3.2 and the most common number of approved vaccines was 4.
-The countries with the most vaccines approved for use are Pakistan and Palestine with approval for 8 vaccines, however the upper bound in this data set was calculated to be 7, making these two countries outliers. The next highest approval number is 7, with 8 countries approving this many while the lowest number of approved vaccines is 1 with 36 countries approving a single vaccine.
-Plotting the number of vaccines approved in a country against the total number of vaccines administered per hundred people, as of 11th of December 2021 produces a scatter plot that appears to show no obvious correlation.
+In the first data set of 223 countries the average number of vaccines approved for use was 3.2 and the most common number of approved vaccines was 4.
+The countries with the most vaccines approved for use are Pakistan and Palestine with approval for 8 vaccines, however the upper bound in this data set was calculated to be 7, making these two countries outliers. The next highest approval number is 7, with 8 countries approving this many, while the lowest number of approved vaccines is 1 with 36 countries approving a single vaccine.
+Plotting the number of vaccines approved in a country against the total number of vaccines administered per hundred people, as of 11th of December 2021, produces a scatter plot that appears to show no obvious correlation.
 
 ![Country_Vacciniations_Scatter)](Output/Country_Vacciniations_Scatter.png)
 
 The line of regression appears almost horizontal and the Pearson's correlation coefficient is close to zero (0.0001) indicating that there is no correlation between number of vaccines approved in a country and the number of vaccinations administered.
 
-The second data records the number of vaccines administered by manufacturer in a selection of 39 countries. It is important to note that this data set does not include China where Sinovac and Sinopharm/Beijing are the most used vaccines and thus may bias the analysis against these two vaccines.
+The second data set records the number of vaccines administered by manufacturer in a selection of 39 countries. It is important to note that this data set does not include China where Sinovac and Sinopharm/Beijing are the most used vaccines and thus may bias the analysis against these two vaccines.
 In these 39 countries Pfizer/BioNTech has been the most administered vaccine, accounting for 51.38% of all vaccines administered. Behind Pfizer/BioNTech is Moderna at 33.69% and after that all the other vaccines make up a much smaller part of vaccines administered in these countries.
 
 ![Manufacturer_Pie)](Output/Manufacturer_Pie.png)
