@@ -17,7 +17,7 @@ The data source used for this Covid Cases analysis project is owid-covid-data.cs
 According the the owid-covid-data on 15th December 2021 there were 272Mil cases recorded worldwide.
 
 Countries with the highest number of cases include United States with 48Mil cases, India 34Mil and Brazil 22Mil.
-![(Highest_Cases)](./DC Output/DC Figures/Fig DC Highest Number of Cases by Country.png)
+![Highest_Cases](DC Output/DC Figures/Fig DC Highest Number of Cases by Country.png)
 
 During the time, the number of cases increased and decreased in waves with different peak periods for each country. 
 
