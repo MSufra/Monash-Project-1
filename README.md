@@ -23,13 +23,13 @@ Countries with the highest number of cases include United States with 48Mil case
 
 During the time, the number of cases increased and decreased in waves with different peak periods for each country. 
 
-![(New_Cases)](DC Output/DC Figures/Fig DC Box Plot New Cases Selected Countries.png)
+![(New_Cases)](https://github.com/MSufra/Monash-Project-1/blob/189ad3e63aa096f67ba3b96cda4d4f08a2686aac/DC%20Output/DC%20Figures/Fig%20DC%20Box%20Plot%20New%20Cases%20Selected%20Countries.png)
 
 From the data analysed the correlation between new cases and new vaccines or people fully vaccinated is very weak.
 
 However, there is a strong positive correlation between the new cases and new deaths demonstrated by a r-squared of 0.71.
 
-![(Deaths_vs_Cases)](DC Output/DC Figures/Fig DC New Deaths vs New Cases Worlwide - Linear Regression.png)
+![(Deaths_vs_Cases)](https://github.com/MSufra/Monash-Project-1/blob/189ad3e63aa096f67ba3b96cda4d4f08a2686aac/DC%20Output/DC%20Figures/Fig%20DC%20New%20Deaths%20vs%20New%20Cases%20Worlwide%20-%20Linear%20Regression.png)
 
 Vaccination data shows that the countries with the highest number of people vaccinated are India with 781MIL people vaccinated, United States 234.6MIL and Brazil 163MIL. However, China, India and United States are the countries with the highest number of people fully vaccinated. On the other hand, the countries with the highest percentage of population vaccinated are Gibraltar, United Arab Emirates and Portugal.
 
