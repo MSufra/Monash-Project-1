@@ -18,21 +18,17 @@ According the the owid-covid-data on 15th December 2021 there were 272Mil cases 
 
 Countries with the highest number of cases include United States with 48Mil cases, India 34Mil and Brazil 22Mil.
 
-![(Fig DC Highest Number of Cases by Country)](DC Output/DC Figures/Fig DC Highest Number of Cases by Country.png)
+![(Highest_Cases)](DC Output/DC Figures/Fig DC Highest Number of Cases by Country.png)
 
 During the time, the number of cases increased and decreased in waves with different peak periods for each country. 
 
-![(Fig DC New Cases by Date Selected Countries)](DC Output/DC Figures/Fig DC New Cases by Date Selected Countries.png)
-
-During the time, the number of cases increased and decreased in waves with different peak periods for each country. 
-
-![Fig DC New Cases by Date Selected Countries](DC Output/DC Figures/Fig DC New Cases by Date Selected Countries.png)
+![(New_Cases)](DC Output/DC Figures/Fig DC Box Plot New Cases Selected Countries.png)
 
 From the data analysed the correlation between new cases and new vaccines or people fully vaccinated is very weak.
 
 However, there is a strong positive correlation between the new cases and new deaths demonstrated by a r-squared of 0.71.
 
-![(Fig DC New Deaths vs New Cases Worlwide Worlwide - Linear Regression)](DC Output/DC Figures/Fig DC New Deaths vs New Cases Worlwide Worlwide - Linear Regression.png)
+![(Deaths_vs_Cases)](DC Output/DC Figures/Fig DC New Deaths vs New Cases Worlwide - Linear Regression.png)
 
 Vaccination data shows that the countries with the highest number of people vaccinated are India with 781MIL people vaccinated, United States 234.6MIL and Brazil 163MIL. However, China, India and United States are the countries with the highest number of people fully vaccinated. On the other hand, the countries with the highest percentage of population vaccinated are Gibraltar, United Arab Emirates and Portugal.
 
@@ -65,14 +61,14 @@ In the first data set of 223 countries the average number of vaccines approved f
 The countries with the most vaccines approved for use are Pakistan and Palestine with approval for 8 vaccines, however the upper bound in this data set was calculated to be 7, making these two countries outliers. The next highest approval number is 7, with 8 countries approving this many, while the lowest number of approved vaccines is 1 with 36 countries approving a single vaccine.
 Plotting the number of vaccines approved in a country against the total number of vaccines administered per hundred people, as of 11th of December 2021, produces a scatter plot that appears to show no obvious correlation.
 
-![Country_Vacciniations_Scatter)](MS_Output/Country_Vacciniations_Scatter.png)
+![Country_Vacciniations_Scatter](MS_Output/Country_Vacciniations_Scatter.png)
 
 The line of regression appears almost horizontal and the Pearson's correlation coefficient is close to zero (0.0001) indicating that there is no correlation between number of vaccines approved in a country and the number of vaccinations administered.
 
 The second data set records the number of vaccines administered by manufacturer in a selection of 39 countries. It is important to note that this data set does not include China where Sinovac and Sinopharm/Beijing are the most used vaccines and thus may bias the analysis against these two vaccines.
 In these 39 countries Pfizer/BioNTech has been the most administered vaccine, accounting for 51.38% of all vaccines administered. Behind Pfizer/BioNTech is Moderna at 33.69% and after that all the other vaccines make up a much smaller part of vaccines administered in these countries.
 
-![Manufacturer_Pie)](MS_Output/Manufacturer_Pie.png)
+![Manufacturer_Pie](MS_Output/Manufacturer_Pie.png)
 
 Pfizer/BioNTech, Moderna, Oxford/AstraZeneca and Johnson&Johnson are all approved in over 30 of the 39 countries listed in the data set, while CanSino, Sinopharm/Beijing, Sinovac and Sputnik V are all approved in less than 10 of the 39.
 When plotting this approval against the total number of vaccines administered from each manufacturer there appears to be a weak positive correlation.
